@@ -1,0 +1,15 @@
+{
+    "name":  "Catalina Spa Gateway",
+    "version":  "4.5",
+    "builds":  [
+                   {
+                       "chipFamily":  "ESP32-S3",
+                       "ota":  {
+                                   "path":  "firmware/catalina-R4.5.ota.bin",
+                                   "md5":  "c7cee604ec2663cbd0e02b99723cc05e",
+                                   "summary":  "R4.5",
+                                   "release_url":  ""
+                               }
+                   }
+               ]
+}
